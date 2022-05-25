@@ -1,2 +1,2 @@
-# The Prophecies -- Nostradamus
+# The Prophecies - Nostradamus
 
