@@ -5,7 +5,7 @@
   * [四川重庆关圣帝君预言](di-yi-pian-min-jian-yu-yan/si-chuan-zhong-qing-guan-sheng-di-jun-yu-yan.md)
   * [观音大士劝善文](di-yi-pian-min-jian-yu-yan/guan-yin-da-shi-quan-shan-wen.md)
 * [第二篇 预言(阳)](di-er-pian-yu-yan-yang.md)
-  * [五公經](di-san-pian-wu-gong-jing.md)
+  * [五公經](di-er-pian-yu-yan-yang/wu-gong-jing.md)
   * [佛經-佛說法滅盡經](di-er-pian-yu-yan-yang/fo-jing-fo-shuo-fa-mie-jin-jing.md)
   * [彌勒佛下生經](di-er-pian-yu-yan-yang/mi-le-fo-xia-sheng-jing.md)
   * [弥勒尊佛说风轮真经](di-er-pian-yu-yan-yang/mi-le-zun-fo-shuo-feng-lun-zhen-jing.md)
